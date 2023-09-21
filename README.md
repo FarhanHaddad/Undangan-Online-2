@@ -3,6 +3,7 @@
 - Undangan online ini adalah undangan pernikahan atau syukuran yang dimana pada website ini hanya untuk memberikan sebuah informasi mengenai pernikahan
 
 - Tampilan Undangan
+
   ![Hasil Screenshot](./screenshoot/w2.png)
 
 # Bahasa Pemrograman yang digunakan
